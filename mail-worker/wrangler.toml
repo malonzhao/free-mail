@@ -13,7 +13,7 @@ database_id = "60f0302a-1c2e-42d3-96ac-5119c5387998"
 
 [[kv_namespaces]]
 binding = "kv"
-id = "free-mail"
+id = "40ebb71fb11849d88a1a50241134f163"
 
 [[r2_buckets]]
 binding = "r2"
